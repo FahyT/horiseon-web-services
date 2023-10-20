@@ -6,7 +6,7 @@ Horiseon needed their website's code refactored as the site was not performing w
 
 This project altered the HTML to make use of these attributes as much as possible, and also cleaned up a number of other parts of the codebase including rationalising the CSS to future-proof the website and increase its SEO performance.
 
-A link to the website can be found here:
+A link to the website can be found here: https://fahyt.github.io/horiseon-web-services/
 
 
 ## Installation
