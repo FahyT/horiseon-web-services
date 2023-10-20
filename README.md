@@ -18,14 +18,11 @@ THe project is a static webpage hosted on Github Pages so no installation is req
 
 The website is a static page and is easy to use. Simply click the navigation links at the top-right of the page to be taken to an article explaining more on that topic.
 
-```md
 ![horiseon website](./assets/images/screenshot.PNG)
-```
 
 ## Credits
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/position was extremely helpful for understanding attribution in CSS more clearly.
-
 
 ## License
 
