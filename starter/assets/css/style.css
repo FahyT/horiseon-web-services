@@ -69,14 +69,13 @@ a {
  Main content and articles layout
    ========================================================================== */
 
-/* content class is used rather than semantic html section to differentiate from section used for the banner image */
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content article {
+section article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -85,12 +84,12 @@ a {
     color: #ffffff;
 }
 
-.content article img {
+section article img {
     margin-right: 25px;
     max-height: 200px;
 }
 
-.content article h2{
+section article h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
