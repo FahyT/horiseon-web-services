@@ -24,9 +24,11 @@ header h1 {
     font-size: 48px;
 }
 
+/* Emphasises SEO letters in header using different colour */
 header h1 .seo {
     color: #d9dcd6;
 }
+
 
 header nav {
     padding-top: 15px;
@@ -36,10 +38,12 @@ header nav {
     font-size: 20px;
 }
 
+/*removes bullet points */
 header nav ul {
     list-style-type: none;
 }
 
+/*ensures nav links display inline rather than vertically in a list*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -65,6 +69,7 @@ a {
  Main content and articles layout
    ========================================================================== */
 
+/* content class is used rather than semantic html section to differentiate from section used for the banner image */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,6 +95,7 @@ a {
     font-size: 36px;
 }
 
+/*to alternate image alignment in the different articles */
 .float-left {
     float: left;
 }
